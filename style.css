@@ -49,8 +49,11 @@ width: 1250px;
 
 #text {
 color: white;
-float: right;
+position: relative;
+left: 350px;
+top: 100px;
 border-bottom: 300px;
+z-index: 1;
 }
 .pp {
 font-size: 14px;
